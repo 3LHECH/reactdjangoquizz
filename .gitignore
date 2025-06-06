@@ -1,0 +1,6 @@
+myenv
+quizz_back/profiles/
+quizz_back/*/__pycache__/
+quizz_back/*/migrations/__pycache__/
+quizz_back/*/migrations/00*
+quizz_back/quizz/migrations/00*
